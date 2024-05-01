@@ -1,2 +1,2 @@
 # DesafioCordel
- Desafio - Pagina Parallax - Cordel
+ Desafio do curso - Pagina Parallax - Cordel
